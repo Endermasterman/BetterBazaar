@@ -3,4 +3,4 @@ This is a mod for hypixel skyblock that will help you with bazaar flipping. This
 Commands 
 /bn toggle: Starts and stops the bazaar helper.
 
-Note if you need help feel free to join the discord server and head over to support for help https://discord.gg/4YmTQD6n
+Note if you need help feel free to join the discord server and head over to support for help https://discord.gg/yshG8pV7Fb
